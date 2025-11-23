@@ -5,6 +5,12 @@
 # 论文列表
 | 日期 | 论文名称 | 期刊 | 年份 |
 | :----: | :------: | :----: | :----: |
+| 2025-11-21 | Automated rotator cuff tear classification using 3D convolutional neural network | Scientific reports  | 2020 |
+| 2025-11-19 | LooBox: Loose-box-supervised 3D Tumor Segmentation with Self-correcting Bidirectional Learning | ACM MM  | 2025 |
+| 2025-11-18 | ConformalSAM: Unlocking the Potential of Foundational Segmentation Models in Semi-Supervised Semantic Segmentation with Conformal Prediction | ICCV | 2025 |
+| 2025-11-17 | UCPO: A Universal Constrained Combinatorial Optimization Method via Preference Optimization | arXiv | 2025 |
+| 2025-11-14 | Self-Prompt SAM: Medical Image Segmentation via Automatic Prompt SAM Adaptation | arXiv | 2025 |
+| 2025-11-13 | Improved Partial Differential Equation and Fast Approximation Algorithm for Hazy/Underwater/Dust Storm Image Enhancement | arXiv | 2025 |
 | 2025-11-12 | Controllable-LPMoE: Adapting to Challenging Object Segmentation via Dynamic Local Priors from Mixture-of-Experts | ICCV | 2025 |
 | 2025-11-11 | Foundation model-based apple ripeness and size estimation for selective harvesting | Computers and Electronics in Agriculture | 2025 |
 | 2025-11-11 | MSM-Seg: A Modality-and-Slice Memory Framework with Category-Agnostic Prompting for Multi-Modal Brain Tumor Segmentation | arXiv | 2025 |
