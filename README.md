@@ -5,7 +5,8 @@
 # 论文列表
 | 日期 | 论文名称 | 期刊 | 年份 |
 | :----: | :------: | :----: | :----: |
-| 2025-11-30 | Content-Aware Residual Asymmetric Convolution Network for Adaptive Mitochondria Segmentation | NIPS  | 2025 |
+| 2025-11-30 | Content-Aware Residual Asymmetric Convolution Network for Adaptive Mitochondria Segmentation |International Conference on Neural 
+Information Processing   | 2025 |
 | 2025-11-28 | WeakMedSAM: Weakly-Supervised Medical Image Segmentation via SAM With Sub-Class Exploration and Prompt Affinity Mining | TMI  | 2025 |
 | 2025-11-21 | Automated rotator cuff tear classification using 3D convolutional neural network | Scientific reports  | 2020 |
 | 2025-11-19 | LooBox: Loose-box-supervised 3D Tumor Segmentation with Self-correcting Bidirectional Learning | ACM MM  | 2025 |
