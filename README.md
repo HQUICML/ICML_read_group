@@ -5,6 +5,17 @@
 # 论文列表
 | 日期 | 论文名称 | 期刊 | 年份 |
 | :----: | :------: | :----: | :----: |
+| 2025-12-16 | Inverse Optimal Transport for Efficient Adaptation of Vision-Language Models | AAAI  | 2026 |
+| 2025-12-14 | CSAM:A2.5DCross-Slice Attention Module for Anisotropic Volumetric Medical Image Segmentation | WACV | 2024 |
+| 2025-12-12 | In-Context Adaptation of VLMs for Few-Shot Cell Detection in Optical Microscopy | arXiv | 2025 |
+| 2025-12-12 | Projected Gradient Descent Algorithms for Solving Nonlinear Inverse Problems with Generative Priors | arXiv | 2022 |
+| 2025-12-11 | CellStyle: Improved Zero-Shot Cell Segmentation via Style Transfer | MICCAI  | 2025 |
+| 2025-12-10 | Sliceconsistent lymph nodes detection transformer in ct scans via cross-slice query contrastive learning | MICCAI  | 2024 |
+| 2025-12-10 | Effective Lymph Nodes Detection in CT Scans Using Location Debiased Query Selection and Contrastive Query Representation in Transformer | ECCV  | 2024 |
+| 2025-12-7 | Tied Prototype Model for Few-Shot Medical Image Segmentation | MICCAI  | 2025 |
+| 2025-12-7 | Uncertainty-Driven Edge Prompt Generation Network for Medical Image Segmentation | TMI  | 2025 |
+| 2025-12-6 | Deep Unsupervised Anomaly Detection in Brain Imaging: Large-Scale Benchmarking and Bias Analysis | arXiv | 2025 |
+| 2025-12-1 | DeformCL: Learning Deformable Centerline Representation for Vessel Extraction in 3D Medical Image | CVPR   | 2025 |
 | 2025-11-30 | Content-Aware Residual Asymmetric Convolution Network for Adaptive Mitochondria Segmentation |International Conference on Neural Information Processing   | 2025 |
 | 2025-11-28 | WeakMedSAM: Weakly-Supervised Medical Image Segmentation via SAM With Sub-Class Exploration and Prompt Affinity Mining | TMI  | 2025 |
 | 2025-11-21 | Automated rotator cuff tear classification using 3D convolutional neural network | Scientific reports  | 2020 |
